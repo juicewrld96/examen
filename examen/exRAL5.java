@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * pregunta5
  */
-public class pregunta5 {
+public class exRAL5. {
     static Scanner lt= new Scanner(System.in);
 
     public static void main(String[] args) {
