@@ -5,7 +5,6 @@ public class exRAL4 {
     public static void main(String[] args) {
        //RONY ABAD LUCANA LUNA  
        //ejercicio n 4
-        //fran franklin calizaya apaza
         //algoritmo de que vacuna poner al individuo :v 
        
         String mensaje;

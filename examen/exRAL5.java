@@ -1,8 +1,6 @@
 package examen;
 
-public class exRAL5 {
-    public static void main(String[] args) {
-    import java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * pregunta5
@@ -26,7 +24,9 @@ public class pregunta5 {
           pregunta4examenFRFM(RALL); break;
             
             default: break;
-        }    
-    }
-    }
-}
+        }
+
+        }
+        
+
+        }
