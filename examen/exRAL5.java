@@ -15,13 +15,13 @@ public class exRAL5. {
         switch (pregunta) 
         {
           case 1:
-          pregunta1examenFRFM(RALL) ; break;
+          pregunta1examenRALL() ; break;
           case 2:
-          pregunta2examenFRFM(RALL) ; break;
+          pregunta2examenRALL() ; break;
           case 3:
-          pregunta3examenFRFM(RALL); break;
+          pregunta3examenRALL(); break;
           case 4:
-          pregunta4examenFRFM(RALL); break;
+          pregunta4examenRALL(); break;
             
             default: break;
         }
